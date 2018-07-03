@@ -1,0 +1,16 @@
+{
+    "orgName": "Faker",
+    "edition": "Developer",
+    "hasSampleData": "true",
+    "features": "API;AuthorApex;CustomApps;CustomTabs;ForceComPlatform;DebugApex",
+    "orgPreferences": {
+        "enabled": [
+            "S1DesktopEnabled",
+            "ChatterEnabled",
+            "S1EncryptedStoragePref2",
+            "PathAssistantsEnabled",
+            "AsyncSaveEnabled"
+        ],
+        "disabled": []
+    }
+}
