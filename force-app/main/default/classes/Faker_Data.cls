@@ -71,4 +71,8 @@ public class Faker_Data {
     'Wisconsin' => 'WI',
     'Wyoming' => 'WY'
   };
+
+  public static final List<String> PUBLIC_EMAIL_DOMAINS = new List<String> {
+    'gmail.com', 'yahoo.com', 'mail.com', 'aol.com', 'protonmail.com', 'outlook.com'
+  };
 }

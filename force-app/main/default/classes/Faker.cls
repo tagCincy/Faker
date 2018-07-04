@@ -12,4 +12,11 @@ public class Faker {
     }
     private set;
   }
+
+  public static Faker_Internet Internet {
+    get {
+      return new Faker_Internet();
+    }
+    private set;
+  }
 }
